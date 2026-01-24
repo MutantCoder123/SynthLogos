@@ -78,9 +78,9 @@ for testing
 
 Here are the screenshots of **SynthLogos** running on **streamlit**
 
-![UI Output](Screenshots/demo_screenshot1.png)
-![UI Output](Screenshots/demo_screenshot2.png)
-![UI Output](Screenshots/demo_screenshot3.png)
+![UI Output](screenshots/demo_screenshot1.png)
+![UI Output](screenshots/demo_screenshot2.png)
+![UI Output](screenshots/demo_screenshot3.png)
 
 
 # Setup & Run Guide
