@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+backend/engine
+backend/engine.exe
+.DS_Store
+Thumbs.db
